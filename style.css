@@ -48,7 +48,7 @@ header{
     
 }
 .sec2{
-    background-image: linear-gradient(to right,rgba(0,0,0,1),rgba(135, 14, 227,0.25)),url(/image/hero-bg.jpg);
+    background-image: linear-gradient(to right,rgba(0,0,0,1),rgba(135, 14, 227,0.25)),url(hero-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat ;
     background-color: black;
